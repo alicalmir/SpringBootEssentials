@@ -5,15 +5,6 @@
 
 This repository contains a comprehensive Spring Boot project that covers essential aspects of Spring Boot and Java development.
 
-## Table Of Contents
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Spring Boot Essentials is a project that aims to help you get started with Spring Boot and Java development.
